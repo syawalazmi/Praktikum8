@@ -1,0 +1,25 @@
+* {
+    margin:0;
+    font-family: Helvetica;
+    
+}
+
+body {
+    background-color: #030138;
+}
+
+nav {
+    display: flex;
+    background-color: #011b38;
+    padding: 20px;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+}
+
+ul li {
+    margin-right: 15px;
+    list-style-type: none;
+}

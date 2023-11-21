@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+}
+
+header, article, aside, nav, footer {
+    padding: 30px;
+}
+
+.content {
+    display: flex;
+    height: 77vh;
+}
+
+header {
+    background-color: aqua;
+}
+
+article {
+    background-color: aquamarine;
+    width: 50%;
+}
+
+aside {
+    background-color: bisque;
+    width: 25%;
+}
+
+nav {
+    background-color: darkkhaki;
+    width: 25%;
+}
+
+footer {
+    background-color: cadetblue;
+}
